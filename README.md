@@ -87,7 +87,6 @@ Git • GitHub • VS Code • IntelliJ IDEA • Postman • Swagger
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 - MERN Stack with Leaflet Maps and MongoDB.
@@ -97,9 +96,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Postman • Swagger
 ### 🧠 ALL WELL — Mental Wellness Platform
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 - AI mental health assistant and audio therapy.
@@ -156,20 +153,6 @@ Interested in contributing to open-source MERN stack, AI-powered application, an
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atishayjain86300&theme=github-compact&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atishayjain86300&theme=onestar&row=1&column=6&margin-w=12&no-bg=true" alt="GitHub trophies" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atishayjain86300/atishayjain86300/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
-> The snake animation will appear after its GitHub Actions workflow is configured in the profile repository.
 
 ## 💭 Quote of the Day
 
