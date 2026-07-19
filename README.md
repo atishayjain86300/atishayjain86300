@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=660&lines=Full+Stack+JavaScript+Developer;Building+with+MERN%2C+TypeScript%2C+and+REST+APIs;Learning+System+Design+and+AI+Integration" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atishayjain86300&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
 
 ## 🚀 About Me
 
