@@ -134,14 +134,6 @@ Interested in contributing to open-source MERN stack, AI-powered application, an
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=atishayjain86300&show_icons=true&theme=github_dark&hide_border=true" alt="Atishay's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishayjain86300&layout=compact&theme=github_dark&hide_border=true" alt="Atishay's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atishayjain86300&theme=github-dark-blue&hide_border=true" alt="Atishay's GitHub contribution streak" />
-</p>
 
 | Year | Contributions |
 | --- | ---: |
